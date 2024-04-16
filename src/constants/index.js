@@ -1,6 +1,6 @@
 import {
   bbbb, hogwartsMarketplace, portfolio,
-  linkedin, githubBlack, email
+  linkedin, githubBlack, email, techlahomaProject
 } from '../assets'
 const projects = [
   {
@@ -45,13 +45,13 @@ const projects = [
       },
     ],
     image: bbbb,
-    repo: 'https://github.com/VirtualBlakeWillis/Bubble-Bass-s-Bubble-Buster',
-    demo: 'https://ethanwakeford.github.io/',
+    repo: 'https://github.com/douglahoma/techlahoma-private',
+    demo: 'https://github.com/douglahoma/techlahoma-private',
   },
   {
     id: 'project-3',
-    name: 'My Portfolio',
-    description: 'This is a single-page portfolio website built with React.',
+    name: 'Techlahoma Event Attendee Check-In Platform',
+    description: 'A Web Application for attendees to check in to Techlahoma events.',
     tags: [
       {
         name: 'nextjs',
@@ -66,10 +66,11 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: portfolio,
+    image: techlahomaProject,
     repo: 'https://github.com/VirtualBlakeWillis/Portfolio',
     demo: 'https://github.com/VirtualBlakeWillis/Portfolio',
   },
+  
 ];
 
 const links = [

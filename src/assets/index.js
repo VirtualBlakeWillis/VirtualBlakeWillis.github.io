@@ -10,6 +10,7 @@ import portfolio from './portfolio.png'
 import linkedin from './linkedin-black.png'
 import email from './send.png'
 import githubBlack from './github-black.png'
+import techlahomaProject from './Techlahoma-Project.png'
 
 
 export {
@@ -21,6 +22,7 @@ export {
   github,
   linkedin,
   email,
-  githubBlack
+  githubBlack,
+  techlahomaProject
   
 }
