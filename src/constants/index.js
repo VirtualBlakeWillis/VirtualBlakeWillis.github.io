@@ -7,20 +7,6 @@ const projects = [
     id: 'project-1',
     name: 'Hogwarts Marketplace',
     description: 'A full stack e-commerce web app.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'mongodb',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'tailwind',
-        color: 'pink-text-gradient',
-      },
-    ],
     image: hogwartsMarketplace,
     repo: 'https://github.com/VirtualBlakeWillis/hogwarts-black-market',
     demo: 'https://github.com/VirtualBlakeWillis/hogwarts-black-market',
@@ -30,20 +16,6 @@ const projects = [
     name: 'Bubble Bass Bubble Buster',
     description:
       'A front end 2d platformer game. Built for a 5 day hack sprint',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'restapi',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient',
-      },
-    ],
     image: bbbb,
     repo: 'https://github.com/douglahoma/techlahoma-private',
     demo: 'https://github.com/douglahoma/techlahoma-private',
@@ -52,20 +24,6 @@ const projects = [
     id: 'project-3',
     name: 'Techlahoma Event Attendee Check-In Platform',
     description: 'A Web Application for attendees to check in to Techlahoma events.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
     image: techlahomaProject,
     repo: 'https://github.com/VirtualBlakeWillis/Portfolio',
     demo: 'https://github.com/VirtualBlakeWillis/Portfolio',
@@ -82,7 +40,7 @@ const links = [
   {
     id: 'links-2',
     name: "Resume",
-    url: "https://drive.google.com/file/d/1eUREV5VvpJrcyNhFArX0gPG0jxTwWuVk/view?usp=sharing"
+    url: "https://drive.google.com/file/d/17JyDGDuO9z9RyuMq3faqlPK-6D4HnXes/view?usp=drive_link"
   }
 ]
 
