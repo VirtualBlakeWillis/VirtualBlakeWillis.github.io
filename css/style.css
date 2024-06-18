@@ -702,3 +702,15 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+
+
+    /* CONTACT CONTAINER */
+.contact-container {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  margin: auto;
+
+
+}
